@@ -1,5 +1,5 @@
 [package]
-name = "hello_actix"
+name = "hello_actix_cache"
 version = "0.1.0"
 edition = "2024"
 
